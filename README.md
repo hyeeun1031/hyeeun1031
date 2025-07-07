@@ -1,49 +1,45 @@
-## Hi there 👋
-
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyeeun%Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=400&section=header&text=I'm%20Hyeeun&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Keen%20On%20Insights,%20not%20just%20models%20—%20Domain-centered%20Data%20Science!&descAlignY=51&descAlign=62"/>
 </p>
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
+# 👋 Hello World!  
+**🧠 I'm Strategy-oriented Data Analyst!** <br>
+**I focus on solving real business problems through actionable and strategic analysis.** 
+<br>
+
+<a href="mailto:chyeeun1031@gmail.com">
+  <img src="https://img.shields.io/badge/chyeeun1031@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+
+<a href="https://velog.io/@hyeeun1031">
+  <img src="https://img.shields.io/badge/hyeeun.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+# 💪TOOLS
+**📊 Data Analytics**
+
+<p align='left'>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p> 
-<p align="center"> 
-  <a href="../README.md">English</a> 
-  ·
-  <a href="/docs/README_kr.md">한국어</a> 
-  .
-  <a href="/docs/README_fr.md">Français</a>
-  .
-  <a href="/docs/README_de.md">Deutsch</a>
-  .
-  <a href="/docs/README_zh-cn.md">简体中文</a>  
-  .
-  <a href="/docs/README_zh-tw.md">繁體中文</a>
-  .
-  <a href="/docs/README_zh-hk.md">繁體粤语</a>
-  . 
-  <a href="/docs/README_pt-br.md">Português (Brasileiro)</a>
-  . 
 
-<!--
-**hyeeun1031/hyeeun1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**🌐 Web**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='left'>
+    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+</p> 
+
+
+**✅ Workflow**
+
+<p align='left'>
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+</p> 

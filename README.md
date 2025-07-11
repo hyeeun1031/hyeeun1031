@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=400&section=header&text=I'm%20Hyeeun&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Keen%20On%20Insights,%20not%20just%20models%20—%20Domain-centered%20Data%20Science!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=400&section=header&text=I'm%20Hyeeun&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Keen%20On%20Insights,%20not%20just%20models%20—%20Domain-centered%20Data%20Science!&descAlignY=51&descAlign=62&fontColor=333399"/>
 </p>
 
 # 👋 Hello World!  
